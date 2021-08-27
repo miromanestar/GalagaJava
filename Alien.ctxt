@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Alien
+comment1.params=multiplied\ scale\ fire
+comment1.target=Alien(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=max\ multiplied\ scale\ chance
+comment3.target=void\ respawn(int,\ int,\ int,\ int)
+comment4.params=speed
+comment4.target=void\ movement(int)
+comment4.text=\r\n\ \ \ \ public\ void\ spawnAnimate()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ GreenfootImage\ player\ \=\ (GreenfootImage)\ getWorld().getObjects(Player.class).get(0).getImage();\r\n}
+comment5.params=
+comment5.target=void\ randomTurn()
+comment6.params=
+comment6.target=void\ limit()
+comment7.params=
+comment7.target=void\ atEdge()
+comment8.params=
+comment8.target=void\ fireWeapon()
+comment9.params=
+comment9.target=void\ hit()
+numComments=10

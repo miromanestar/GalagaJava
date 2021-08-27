@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ object\ source\ code\r\n\ \r\n\ @author\ Miro\ Manestar\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Player()
+comment2.params=rateOfFire\ healthOfPlayer
+comment2.target=Player(int,\ int)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ playerControl()
+comment5.params=
+comment5.target=void\ fireWeapon()
+comment6.params=
+comment6.target=void\ atEdge()
+comment7.params=
+comment7.target=void\ threadAccess()
+comment8.params=
+comment8.target=void\ die()
+comment9.params=
+comment9.target=void\ health()
+numComments=10
